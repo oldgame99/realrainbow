@@ -295,6 +295,14 @@
     },
     {
       "id": "f005",
+      "name": "Galaxy",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/filter/Galaxy/",
+      "price": "0",
+      "size": "10",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "f006",
       "name": "Star",
       "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/filter/Star/",
       "price": "0",
