@@ -10,14 +10,14 @@
   "homePageAdType": "admob",
   
   "homePageAppAdObject": {
-    "appId": "rainbow.filter.effect.app",
-    "appName": "Rainbow Filter App",
-    "appUrl": "market://details?id=rainbow.filter.effect.app",
-    "featureUrl": "https://raw.githubusercontent.com/oldgame99/rainbow/master/promotion/res/ads_cover_heart_face_camera.png",
-    "iconUrl": "https://lh3.googleusercontent.com/AuxahBwtjQ7pA-kb01phz_0udHjTsX1bqWQEzklbdzLIjrra79dnLlkCT80Y-2quVg=s180-rw",
-    "link": "market://details?id=rainbow.filter.effect.app",
+    "appId": "blush.kawaii.faceapp.anime.stickers",
+    "appName": "Blush: red cheeks, shy face, kawaii anime stickers",
+    "appUrl": "market://details?id=blush.kawaii.faceapp.anime.stickers",
+    "featureUrl": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/promotion/res/ads_cover_heart_face_camera.png",
+    "iconUrl": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/promotion/res/blush.kawaii.faceapp.anime.stickers.webp",
+    "link": "market://details?id=blush.kawaii.faceapp.anime.stickers",
     "pubName": "LaboDroid",
-    "description": "Rainbow Filter App - Give your photos the charm of nature..."
+    "description": "Get blush red cheeks - embarrassed Face Now! + tons of kawaii anime stickers..."
   },
   
 
