@@ -28,26 +28,26 @@
   	{
   		"title":"Vacation",
   		"subTitle":"Sticker",
-  		"photo":"https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Vacation/cover",
+  		"photo":"https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Vacation/cover",
   		"key":"s003"	
   	},
   
   	{
   		"title":"Winter Story",
   		"subTitle":"Sticker",
-  		"photo":"https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Winter_story/cover",
+  		"photo":"https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Winter_story/cover",
   		"key":"s011"	
   	},
   	{
   		"title":"Sweet Dream",
   		"subTitle":"Sticker",
-  		"photo":"https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Sweet_dream/cover",
+  		"photo":"https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Sweet_dream/cover",
   		"key":"s013"	
   	},
   	{
   		"title":"Beautiful Girl",
   		"subTitle":"Sticker",
-  		"photo":"https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Beautiful_girl/cover",
+  		"photo":"https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Beautiful_girl/cover",
   		"key":"s008"	
   	}
   ],
@@ -139,7 +139,7 @@
     {
       "id": "p001",
       "name": "Artistic",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/pattern/Artistic/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/pattern/Artistic/",
       "price": "0",
       "size": "8",
       "color": "#FFFFFF"
@@ -147,7 +147,7 @@
     {
       "id": "p002",
       "name": "Black_and_White",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/pattern/Black_and_White/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/pattern/Black_and_White/",
       "price": "0",
       "size": "8",
       "color": "#FFFFFF"
@@ -155,7 +155,7 @@
     {
       "id": "p003",
       "name": "Blossom",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/pattern/Blossom/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/pattern/Blossom/",
       "price": "0",
       "size": "8",
       "color": "#FFFFFF"
@@ -163,7 +163,7 @@
     {
       "id": "p004",
       "name": "Boo",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/pattern/Boo/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/pattern/Boo/",
       "price": "0",
       "size": "8",
       "color": "#FFFFFF"
@@ -171,7 +171,7 @@
     {
       "id": "p005",
       "name": "Brazil_Carnival",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/pattern/Brazil_Carnival/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/pattern/Brazil_Carnival/",
       "price": "0",
       "size": "8",
       "color": "#FFFFFF"
@@ -179,7 +179,7 @@
     {
       "id": "p006",
       "name": "Celebration",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/pattern/Celebration/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/pattern/Celebration/",
       "price": "0",
       "size": "8",
       "color": "#FFFFFF"
@@ -187,7 +187,7 @@
     {
       "id": "p007",
       "name": "Check_Pattern",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/pattern/Check_Pattern/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/pattern/Check_Pattern/",
       "price": "0",
       "size": "8",
       "color": "#FFFFFF"
@@ -196,7 +196,7 @@
     {
       "id": "p009",
       "name": "Cool_Summer",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/pattern/Cool_Summer/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/pattern/Cool_Summer/",
       "price": "0",
       "size": "8",
       "color": "#FFFFFF"
@@ -204,7 +204,7 @@
     {
       "id": "p010",
       "name": "Cute_Animals",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/pattern/Cute_Animals/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/pattern/Cute_Animals/",
       "price": "0",
       "size": "8",
       "color": "#FFFFFF"
@@ -212,7 +212,7 @@
     {
       "id": "p011",
       "name": "Deck_the_Halls",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/pattern/Deck_the_Halls/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/pattern/Deck_the_Halls/",
       "price": "0",
       "size": "8",
       "color": "#FFFFFF"
@@ -220,7 +220,7 @@
     {
       "id": "p012",
       "name": "Delicious",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/pattern/Delicious/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/pattern/Delicious/",
       "price": "0",
       "size": "8",
       "color": "#FFFFFF"
@@ -228,7 +228,7 @@
     {
       "id": "p013",
       "name": "Emoji",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/pattern/Emoji/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/pattern/Emoji/",
       "price": "0",
       "size": "8",
       "color": "#FFFFFF"
@@ -236,7 +236,7 @@
     {
       "id": "p014",
       "name": "Fabric",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/pattern/Fabric/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/pattern/Fabric/",
       "price": "0",
       "size": "8",
       "color": "#FFFFFF"
@@ -244,7 +244,7 @@
     {
       "id": "p015",
       "name": "Fashion",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/pattern/Fashion/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/pattern/Fashion/",
       "price": "0",
       "size": "8",
       "color": "#FFFFFF"
@@ -252,7 +252,7 @@
     {
       "id": "p016",
       "name": "Flowers_Birds",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/pattern/Flowers_Birds/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/pattern/Flowers_Birds/",
       "price": "0",
       "size": "12",
       "color": "#FFFFFF"
@@ -260,7 +260,7 @@
     {
       "id": "p017",
       "name": "Flowery",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/pattern/Flowery/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/pattern/Flowery/",
       "price": "0",
       "size": "8",
       "color": "#FFFFFF"
@@ -272,7 +272,7 @@
     {
       "id": "f002",
       "name": "Glitter",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/filter/Glitter/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/filter/Glitter/",
       "price": "0",
       "size": "7",
       "color": "#FFFFFF"
@@ -280,7 +280,7 @@
     {
       "id": "f003",
       "name": "Spooky",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/filter/Spooky/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/filter/Spooky/",
       "price": "0",
       "size": "9",
       "color": "#FFFFFF"
@@ -288,7 +288,7 @@
     {
       "id": "f004",
       "name": "Fire",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/filter/Fire/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/filter/Fire/",
       "price": "0",
       "size": "14",
       "color": "#FFFFFF"
@@ -296,7 +296,7 @@
     {
       "id": "f005",
       "name": "Star",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/filter/Star/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/filter/Star/",
       "price": "0",
       "size": "14",
       "color": "#FFFFFF"
@@ -309,7 +309,7 @@
     {
       "id": "r003",
       "name": "Mothers_Day",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/frame/Mothers_Day/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/frame/Mothers_Day/",
       "price": "0",
       "size": "28",
       "color": "#FFFFFF"
@@ -317,7 +317,7 @@
     {
       "id": "r004",
       "name": "Summer_vacation",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/frame/Summer_vacation/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/frame/Summer_vacation/",
       "price": "0",
       "size": "24",
       "color": "#FFFFFF"
@@ -333,7 +333,7 @@
     {
       "id": "s020",
       "name": "Cat_Face",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Cat_Face/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Cat_Face/",
       "price": "0",
       "size": "43",
       "color": "#FFFFFF"
@@ -343,7 +343,7 @@
    {
       "id": "s023",
       "name": "Crowns",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Crowns/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Crowns/",
       "price": "0",
       "size": "79",
       "color": "#FFFFFF"
@@ -351,8 +351,8 @@
   ,
    {
       "id": "s024",
-      "name": "Rainbow",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Rainbow/",
+      "name": "realrainbow",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/realrainbow/",
       "price": "0",
       "size": "53",
       "color": "#FFFFFF"
@@ -360,7 +360,7 @@
   ,{
       "id": "s025",
       "name": "Snappy",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Snappy/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Snappy/",
       "price": "0",
       "size": "80",
       "color": "#FFFFFF"
@@ -369,7 +369,7 @@
     {
       "id": "s001",
       "name": "Travel",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Travel/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Travel/",
       "price": "0",
       "size": "6",
       "color": "#FFFFFF"
@@ -377,42 +377,42 @@
     {
       "id": "s002",
       "name": "Chocolate",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Chocolate/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Chocolate/",
       "price": "0",
       "size": "20"
     },
     {
       "id": "s003",
       "name": "Vacation",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Vacation/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Vacation/",
       "price": "0",
       "size": "20"
     },
     {
       "id": "s005",
       "name": "Alphabet",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Alphabet/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Alphabet/",
       "price": "0",
       "size": "27"
     },
     {
       "id": "s006",
       "name": "Animal_face",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Animal_face/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Animal_face/",
       "price": "0",
       "size": "37"
     },
     {
       "id": "s007",
       "name": "Baby",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Baby/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Baby/",
       "price": "0",
       "size": "50"
     },
     {
       "id": "s008",
       "name": "Beautiful_girl",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Beautiful_girl/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Beautiful_girl/",
       "price": "0",
       "size": "24"
     },
@@ -420,14 +420,14 @@
     {
       "id": "s010",
       "name": "Black",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Black/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Black/",
       "price": "0",
       "size": "56"
     },
     {
       "id": "s011",
       "name": "Winter_story",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Winter_story/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Winter_story/",
       "price": "0",
       "size": "24",
       "color": "#FFFFFF"
@@ -436,7 +436,7 @@
     {
       "id": "s013",
       "name": "Sweet_dream",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Sweet_dream/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Sweet_dream/",
       "price": "0",
       "size": "21",
       "color": "#FFFFFF"
@@ -444,7 +444,7 @@
     {
       "id": "s014",
       "name": "Spring_time",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Spring_time/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Spring_time/",
       "price": "0",
       "size": "19",
       "color": "#FFFFFF"
@@ -452,7 +452,7 @@
     {
       "id": "s015",
       "name": "Daily_deco",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Daily_deco/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Daily_deco/",
       "price": "0",
       "size": "36",
       "color": "#FFFFFF"
@@ -460,7 +460,7 @@
     {
       "id": "s016",
       "name": "Wedding_day",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Wedding_day/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Wedding_day/",
       "price": "0",
       "size": "30",
       "color": "#FFFFFF"
@@ -468,7 +468,7 @@
     {
       "id": "s017",
       "name": "Pretty_girl",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Pretty_girl/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Pretty_girl/",
       "price": "0",
       "size": "21",
       "color": "#FFFFFF"
@@ -476,7 +476,7 @@
     {
       "id": "s018",
       "name": "Black_vintage",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Black_vintage/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Black_vintage/",
       "price": "0",
       "size": "21",
       "color": "#FFFFFF"
@@ -484,7 +484,7 @@
     {
       "id": "s022",
       "name": "Vintage_love",
-      "link": "https://raw.githubusercontent.com/oldgame99/rainbow/master/res/sticker/Vintage_love/",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/sticker/Vintage_love/",
       "price": "0",
       "size": "21",
       "color": "#FFFFFF"
